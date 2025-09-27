@@ -9,7 +9,7 @@ Consiste en predecir el riesgo de bajo rendimiento académico de estudiantes de 
 - Visualizaciones para seguimiento y análisis
 
 ## Capturas de pantalla
-![Descripción de la imagen]()
-![Descripción de la imagen]()
-![Descripción de la imagen]()
-![Descripción de la imagen]()
+![Descripción de la imagen](print1)
+![Descripción de la imagen](print2)
+![Descripción de la imagen](print3)
+![Descripción de la imagen](print4)
